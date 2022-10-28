@@ -21,4 +21,11 @@
 
 ## Quantum Transform 
 
-[1] [Course website](https://www.youtube.com/watch?v=ATpC2Plbi8g&list=PLtTPtV8SRcxjedflXwNPSI_fxvxwUCjsd)
+[1] [Youtube Lectures](https://www.youtube.com/watch?v=ATpC2Plbi8g&list=PLtTPtV8SRcxjedflXwNPSI_fxvxwUCjsd)
+
+## Quantum Optics
+
+[1] [Course Dropbox](https://www.dropbox.com/sh/0qflvjehvdmo5jc/AACF-VQmMJG3eEJ8e1mYO6WKa?dl=0&fbclid=IwAR1GbuvRZpkKyblsrPTNlaYu4qjYnbhsqNV94mRHEwMiPyLe4mG9iVirsQs)
+
+[2] [Youtube Lectures](https://www.youtube.com/watch?v=rxILmK0yn7w&list=PLQOPozM-bhZrWIyxwD_sMe9Q0HvwMzJNS)
+
