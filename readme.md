@@ -2,7 +2,7 @@
 
 ## MIT 8.04 - Quantum Physics I
 
-[1] [[Course website](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/)]  
+[1] [Course website](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/)  
 [2] [Youtube Lectures] (https://www.youtube.com/watch?v=jANZxzetPaQ&list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G).
 
 ## MIT 8.05 - Quantum Physics II
