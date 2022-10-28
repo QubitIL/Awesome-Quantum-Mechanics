@@ -29,3 +29,8 @@
 
 [2] [Youtube Lectures](https://www.youtube.com/watch?v=rxILmK0yn7w&list=PLQOPozM-bhZrWIyxwD_sMe9Q0HvwMzJNS)
 
+## Quantum Physics for Non-Physicists
+
+[1] [Youtube Lectures](https://www.youtube.com/watch?v=-IdrKSRqUMc&list=PLmE1-ewBrbkiOFq_vMXAww4GDMxDAB3pI)
+
+[2] [Youtube Tutorials](https://www.youtube.com/watch?v=gp1ORXk7018&list=PLmE1-ewBrbkhZMwfD-3dPPwEvK4huxdy3)
