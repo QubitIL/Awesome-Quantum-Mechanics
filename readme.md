@@ -18,3 +18,7 @@
 [1] [Course website](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2018/)
 
 [2] [Youtube Lectures](https://www.youtube.com/watch?v=_OZXEb8FxZQ&list=PLUl4u3cNGP60Zcz8LnCDFI8RPqRhJbb4L)
+
+## Quantum Transform 
+
+[1] [Course website](https://www.youtube.com/watch?v=ATpC2Plbi8g&list=PLtTPtV8SRcxjedflXwNPSI_fxvxwUCjsd)
