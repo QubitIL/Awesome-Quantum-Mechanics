@@ -34,3 +34,9 @@
 [1] [Youtube Lectures](https://www.youtube.com/watch?v=-IdrKSRqUMc&list=PLmE1-ewBrbkiOFq_vMXAww4GDMxDAB3pI)
 
 [2] [Youtube Tutorials](https://www.youtube.com/watch?v=gp1ORXk7018&list=PLmE1-ewBrbkhZMwfD-3dPPwEvK4huxdy3)
+
+## Quantum Technologies Introdution to Engineering
+
+[1] [Youtube Lectures](https://www.youtube.com/watch?v=ALGI0ex0-ac&list=PL1oGCa9XVlcT_pMxTSlPMtDHCOzER98zS&index=1)
+
+
